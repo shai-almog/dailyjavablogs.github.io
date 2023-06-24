@@ -1,0 +1,45 @@
+name: Build and publish Hugo pages
+on:
+  push:
+    branches:
+      - gh-pages  # Set a branch to deploy
+    paths:
+      - hugo/**
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v3
+      #  with:
+      #    submodules: true  # Fetch Hugo themes (true OR recursive)
+      #    fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.114.1'
+          # extended: true
+
+      - name: Build
+        run: hugo --minify --source ./hugo
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/gh-pages'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./hugo/public
