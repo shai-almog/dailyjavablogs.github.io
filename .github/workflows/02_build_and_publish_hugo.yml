@@ -2,7 +2,7 @@ name: Build and publish Hugo pages
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - gh-pages-staging
     paths:
       - hugo/**
   # Allows you to run this workflow manually from the Actions tab
