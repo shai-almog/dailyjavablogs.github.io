@@ -8,6 +8,10 @@ on:
 
 jobs:
   java:
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
     runs-on: ubuntu-22.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
@@ -27,4 +31,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: gh-pages
+          commit_message: New blogs added
+          file_pattern: 'hugo/** data/**'
 
