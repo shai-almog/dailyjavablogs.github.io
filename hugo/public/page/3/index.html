@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.114.1"><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Daily Java Blogs</title>
+<meta name="keywords" content="Java, Blog">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="https://dailyjavablogs.github.io/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.3613efbd0b1772781e8f49935e973cae632a7f61471c05b17be155505ccf87b5.css" integrity="sha256-NhPvvQsXcngej0mTXpc8rmMqf2FHHAWxe&#43;FVUFzPh7U=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://dailyjavablogs.github.io/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://dailyjavablogs.github.io/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://dailyjavablogs.github.io/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://dailyjavablogs.github.io/apple-touch-icon.png">
+<link rel="mask-icon" href="https://dailyjavablogs.github.io/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="https://dailyjavablogs.github.io/index.xml">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="Daily Java Blogs" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://dailyjavablogs.github.io/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Daily Java Blogs"/>
+<meta name="twitter:description" content=""/>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Daily Java Blogs",
+  "url": "https://dailyjavablogs.github.io/",
+  "description": "",
+  "thumbnailUrl": "https://dailyjavablogs.github.io/favicon.ico",
+  "sameAs": [
+      
+  ]
+}
+</script>
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://dailyjavablogs.github.io/" accesskey="h" title="Daily Java Blogs (Alt + H)">Daily Java Blogs</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Hex Representation of a SHA-1 Digest of a String in Java
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p></p>
+  </div>
+  <footer class="entry-footer"><span title='2023-06-21 21:31:29 +0000 UTC'>June 21, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to Hex Representation of a SHA-1 Digest of a String in Java" href="https://dailyjavablogs.github.io/posts/2023/06/21/hex_representation_of_a_sha_1_digest_of_a_string_in_java/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Seekeng feedback: LangChain4j, a library for easy integration of LLMs into your Java app
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p></p>
+  </div>
+  <footer class="entry-footer"><span title='2023-06-21 18:17:59 +0000 UTC'>June 21, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to Seekeng feedback: LangChain4j, a library for easy integration of LLMs into your Java app" href="https://dailyjavablogs.github.io/posts/2023/06/21/seekeng_feedback__langchain4j__a_library_for_easy_integration_of_llms_into_your_java_app/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Prometheus Sample Alert Rules
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p></p>
+  </div>
+  <footer class="entry-footer"><span title='2023-06-21 16:12:07 +0000 UTC'>June 21, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to Prometheus Sample Alert Rules" href="https://dailyjavablogs.github.io/posts/2023/06/21/prometheus_sample_alert_rules/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>A Java library to work with the ANSI OSC52 terminal sequence.
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p></p>
+  </div>
+  <footer class="entry-footer"><span title='2023-06-21 15:42:34 +0000 UTC'>June 21, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to A Java library to work with the ANSI OSC52 terminal sequence." href="https://dailyjavablogs.github.io/posts/2023/06/21/a_java_library_to_work_with_the_ansi_osc52_terminal_sequence_/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Is anyone using Quarkus for monoithic, full-stack web apps?
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p></p>
+  </div>
+  <footer class="entry-footer"><span title='2023-06-21 15:29:06 +0000 UTC'>June 21, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to Is anyone using Quarkus for monoithic, full-stack web apps?" href="https://dailyjavablogs.github.io/posts/2023/06/21/is_anyone_using_quarkus_for_monoithic__full_stack_web_apps_/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>End-to-end gRPC and HTTP/2 support: a story about ALPN, Edge, and Kuma/Envoy
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p></p>
+  </div>
+  <footer class="entry-footer"><span title='2023-06-21 12:31:38 +0000 UTC'>June 21, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to End-to-end gRPC and HTTP/2 support: a story about ALPN, Edge, and Kuma/Envoy" href="https://dailyjavablogs.github.io/posts/2023/06/21/end_to_end_grpc_and_http_2_support__a_story_about_alpn__edge__and_kuma_envoy/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Optimizing memory utilization with automated heap sizing in zgc
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p></p>
+  </div>
+  <footer class="entry-footer"><span title='2023-06-21 11:19:44 +0000 UTC'>June 21, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to Optimizing memory utilization with automated heap sizing in zgc" href="https://dailyjavablogs.github.io/posts/2023/06/21/optimizing_memory_utilization_with_automated_heap_sizing_in_zgc/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Eclipse 2023-06 Java IDE Improvements
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p></p>
+  </div>
+  <footer class="entry-footer"><span title='2023-06-21 10:34:46 +0000 UTC'>June 21, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to Eclipse 2023-06 Java IDE Improvements" href="https://dailyjavablogs.github.io/posts/2023/06/21/eclipse_2023_06_java_ide_improvements/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>An Introduction to Lambda Architecture
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p></p>
+  </div>
+  <footer class="entry-footer"><span title='2023-06-21 09:32:55 +0000 UTC'>June 21, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to An Introduction to Lambda Architecture" href="https://dailyjavablogs.github.io/posts/2023/06/21/an_introduction_to_lambda_architecture/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>How to fetch multiple to-many relationships with jOOQ MULTISET
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p></p>
+  </div>
+  <footer class="entry-footer"><span title='2023-06-21 09:10:29 +0000 UTC'>June 21, 2023</span></footer>
+  <a class="entry-link" aria-label="post link to How to fetch multiple to-many relationships with jOOQ MULTISET" href="https://dailyjavablogs.github.io/posts/2023/06/21/how_to_fetch_multiple_to_many_relationships_with_jooq_multiset/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="prev" href="https://dailyjavablogs.github.io/page/2/">
+      «&nbsp;Prev&nbsp;2/8
+    </a>
+    <a class="next" href="https://dailyjavablogs.github.io/page/4/">Next&nbsp;4/8&nbsp;»
+    </a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2023 <a href="https://dailyjavablogs.github.io/">Daily Java Blogs</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

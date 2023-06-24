@@ -1,0 +1,33 @@
+baseURL = 'https://dailyjavablogs.github.io/'
+languageCode = 'en-us'
+paginate = 10
+title = 'Daily Java Blogs'
+theme = "PaperMod"
+
+[params]
+    environment = "production"
+    keywords = ["Java", "Blog"]
+    disableThemeToggle = false
+    defaultTheme= "auto" # dark, light
+
+    ShowReadingTime = false
+    ShowShareButtons = false
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = false
+    ShowWordCount = false
+    ShowRssButtonInSectionTermList = false
+    ShowPageNums = true
+    UseHugoToc = false
+    disableSpecial1stPost = true
+    disableScrollToTop = true
+    comments = false
+    hidemeta = false
+    hideSummary = false
+    showtoc = false
+    tocopen = false
+
+    [params.cover]
+        hidden = true
+        hiddenInList = true
+        hiddenInSingle = true

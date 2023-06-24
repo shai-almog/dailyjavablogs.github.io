@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Daily Java Blogs</title>
+    <link>https://dailyjavablogs.github.io/posts/</link>
+    <description>Recent content in Posts on Daily Java Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jun 2023 13:24:50 +0000</lastBuildDate><atom:link href="https://dailyjavablogs.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adding One Month to Current Date in Java</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/24/adding_one_month_to_current_date_in_java/</link>
+      <pubDate>Sat, 24 Jun 2023 13:24:50 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/24/adding_one_month_to_current_date_in_java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Java Works: Packages, Jars &amp; Classpath (An educational video)</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/24/how_java_works__packages__jars___classpath__an_educational_video_/</link>
+      <pubDate>Sat, 24 Jun 2023 13:19:19 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/24/how_java_works__packages__jars___classpath__an_educational_video_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Vector API in Java 19</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/24/the_vector_api_in_java_19/</link>
+      <pubDate>Sat, 24 Jun 2023 13:14:36 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/24/the_vector_api_in_java_19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supercharge Your Spring Boot Services with Multiple Data Sources! Introudcing spring-multi-data-source!</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/23/supercharge_your_spring_boot_services_with_multiple_data_sources__introudcing_spring_multi_data_source_/</link>
+      <pubDate>Fri, 23 Jun 2023 17:02:30 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/23/supercharge_your_spring_boot_services_with_multiple_data_sources__introudcing_spring_multi_data_source_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Modulith 1.0 M1 released</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/23/spring_modulith_1_0_m1_released/</link>
+      <pubDate>Fri, 23 Jun 2023 14:33:03 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/23/spring_modulith_1_0_m1_released/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Boot library for logging HTTP requests/responses</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/23/spring_boot_library_for_logging_http_requests_responses/</link>
+      <pubDate>Fri, 23 Jun 2023 13:11:28 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/23/spring_boot_library_for_logging_http_requests_responses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparison Between SeaweedFS &amp; JuiceFS</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/23/a_comparison_between_seaweedfs___juicefs/</link>
+      <pubDate>Fri, 23 Jun 2023 09:39:22 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/23/a_comparison_between_seaweedfs___juicefs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Testcontainers Support in Spring Boot 3.1</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/23/improved_testcontainers_support_in_spring_boot_3_1/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/23/improved_testcontainers_support_in_spring_boot_3_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java 21 - The Other Side</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/22/java_21___the_other_side/</link>
+      <pubDate>Thu, 22 Jun 2023 15:09:01 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/22/java_21___the_other_side/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java Weekly, Issue 495</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/22/java_weekly__issue_495/</link>
+      <pubDate>Thu, 22 Jun 2023 11:25:36 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/22/java_weekly__issue_495/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Difference Between Boolean.TRUE and true in Java</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/22/difference_between_boolean_true_and_true_in_java/</link>
+      <pubDate>Thu, 22 Jun 2023 11:24:52 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/22/difference_between_boolean_true_and_true_in_java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting Default Values to Null Fields in Jackson Mapping</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/22/setting_default_values_to_null_fields_in_jackson_mapping/</link>
+      <pubDate>Thu, 22 Jun 2023 11:20:16 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/22/setting_default_values_to_null_fields_in_jackson_mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Get Partition Count for a Topic in Kafka</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/22/get_partition_count_for_a_topic_in_kafka/</link>
+      <pubDate>Thu, 22 Jun 2023 11:14:46 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/22/get_partition_count_for_a_topic_in_kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Difference Between findBy and findOneBy in Spring Data JPA</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/22/difference_between_findby_and_findoneby_in_spring_data_jpa/</link>
+      <pubDate>Thu, 22 Jun 2023 11:03:17 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/22/difference_between_findby_and_findoneby_in_spring_data_jpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convert Java Array to Iterable</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/22/convert_java_array_to_iterable/</link>
+      <pubDate>Thu, 22 Jun 2023 10:54:20 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/22/convert_java_array_to_iterable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elasticsearch and Kibana: How They Manage Application Logs and Metrics</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/22/elasticsearch_and_kibana__how_they_manage_application_logs_and_metrics/</link>
+      <pubDate>Thu, 22 Jun 2023 09:54:48 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/22/elasticsearch_and_kibana__how_they_manage_application_logs_and_metrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bootiful Podcast: Micrometer lead Tommy Ludwig</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/22/a_bootiful_podcast__micrometer_lead_tommy_ludwig/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/22/a_bootiful_podcast__micrometer_lead_tommy_ludwig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Boot 2.7.13 available now</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/22/spring_boot_2_7_13_available_now/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/22/spring_boot_2_7_13_available_now/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Boot 3.0.8 available now</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/22/spring_boot_3_0_8_available_now/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/22/spring_boot_3_0_8_available_now/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Boot 3.1.1 available now</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/22/spring_boot_3_1_1_available_now/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/22/spring_boot_3_1_1_available_now/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hex Representation of a SHA-1 Digest of a String in Java</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/21/hex_representation_of_a_sha_1_digest_of_a_string_in_java/</link>
+      <pubDate>Wed, 21 Jun 2023 21:31:29 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/21/hex_representation_of_a_sha_1_digest_of_a_string_in_java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seekeng feedback: LangChain4j, a library for easy integration of LLMs into your Java app</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/21/seekeng_feedback__langchain4j__a_library_for_easy_integration_of_llms_into_your_java_app/</link>
+      <pubDate>Wed, 21 Jun 2023 18:17:59 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/21/seekeng_feedback__langchain4j__a_library_for_easy_integration_of_llms_into_your_java_app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prometheus Sample Alert Rules</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/21/prometheus_sample_alert_rules/</link>
+      <pubDate>Wed, 21 Jun 2023 16:12:07 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/21/prometheus_sample_alert_rules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Java library to work with the ANSI OSC52 terminal sequence.</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/21/a_java_library_to_work_with_the_ansi_osc52_terminal_sequence_/</link>
+      <pubDate>Wed, 21 Jun 2023 15:42:34 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/21/a_java_library_to_work_with_the_ansi_osc52_terminal_sequence_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is anyone using Quarkus for monoithic, full-stack web apps?</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/21/is_anyone_using_quarkus_for_monoithic__full_stack_web_apps_/</link>
+      <pubDate>Wed, 21 Jun 2023 15:29:06 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/21/is_anyone_using_quarkus_for_monoithic__full_stack_web_apps_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-end gRPC and HTTP/2 support: a story about ALPN, Edge, and Kuma/Envoy</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/21/end_to_end_grpc_and_http_2_support__a_story_about_alpn__edge__and_kuma_envoy/</link>
+      <pubDate>Wed, 21 Jun 2023 12:31:38 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/21/end_to_end_grpc_and_http_2_support__a_story_about_alpn__edge__and_kuma_envoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing memory utilization with automated heap sizing in zgc</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/21/optimizing_memory_utilization_with_automated_heap_sizing_in_zgc/</link>
+      <pubDate>Wed, 21 Jun 2023 11:19:44 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/21/optimizing_memory_utilization_with_automated_heap_sizing_in_zgc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eclipse 2023-06 Java IDE Improvements</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/21/eclipse_2023_06_java_ide_improvements/</link>
+      <pubDate>Wed, 21 Jun 2023 10:34:46 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/21/eclipse_2023_06_java_ide_improvements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Introduction to Lambda Architecture</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/21/an_introduction_to_lambda_architecture/</link>
+      <pubDate>Wed, 21 Jun 2023 09:32:55 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/21/an_introduction_to_lambda_architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to fetch multiple to-many relationships with jOOQ MULTISET</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/21/how_to_fetch_multiple_to_many_relationships_with_jooq_multiset/</link>
+      <pubDate>Wed, 21 Jun 2023 09:10:29 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/21/how_to_fetch_multiple_to_many_relationships_with_jooq_multiset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1TB Portable External Hard Drive</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/21/1tb_portable_external_hard_drive/</link>
+      <pubDate>Wed, 21 Jun 2023 06:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/21/1tb_portable_external_hard_drive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker Compose Support in Spring Boot 3.1</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/21/docker_compose_support_in_spring_boot_3_1/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/21/docker_compose_support_in_spring_boot_3_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mock Testing: Understanding the Benefits and Best Practices</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/20/mock_testing__understanding_the_benefits_and_best_practices/</link>
+      <pubDate>Tue, 20 Jun 2023 19:16:59 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/20/mock_testing__understanding_the_benefits_and_best_practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generics in Java</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/20/generics_in_java/</link>
+      <pubDate>Tue, 20 Jun 2023 16:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/20/generics_in_java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Need for Default Constructor in JPA Entities</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/20/need_for_default_constructor_in_jpa_entities/</link>
+      <pubDate>Tue, 20 Jun 2023 13:10:22 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/20/need_for_default_constructor_in_jpa_entities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraalVM EE is Dead, Long Live Oracle GraalVM</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/20/graalvm_ee_is_dead__long_live_oracle_graalvm/</link>
+      <pubDate>Tue, 20 Jun 2023 09:08:07 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/20/graalvm_ee_is_dead__long_live_oracle_graalvm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digging into Java Garbage Collection - Part 2</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/20/digging_into_java_garbage_collection___part_2/</link>
+      <pubDate>Tue, 20 Jun 2023 07:50:49 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/20/digging_into_java_garbage_collection___part_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java 21 Sequenced Collections | JEP Café</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/20/java_21_sequenced_collections___jep_caf_/</link>
+      <pubDate>Tue, 20 Jun 2023 06:41:38 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/20/java_21_sequenced_collections___jep_caf_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Istio vs. Linkerd</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/20/istio_vs__linkerd/</link>
+      <pubDate>Tue, 20 Jun 2023 06:06:49 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/20/istio_vs__linkerd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Throw Exception for Unexpected Input for Enum With MapStruct</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/20/throw_exception_for_unexpected_input_for_enum_with_mapstruct/</link>
+      <pubDate>Tue, 20 Jun 2023 03:00:54 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/20/throw_exception_for_unexpected_input_for_enum_with_mapstruct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Read Date in Java Using Scanner</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/20/read_date_in_java_using_scanner/</link>
+      <pubDate>Tue, 20 Jun 2023 02:48:37 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/20/read_date_in_java_using_scanner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XAI visualization tool Trinity released as open source.</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/20/xai_visualization_tool_trinity_released_as_open_source_/</link>
+      <pubDate>Tue, 20 Jun 2023 02:28:17 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/20/xai_visualization_tool_trinity_released_as_open_source_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Authorization Server 1.1.1, 1.0.3 and 0.4.3 available now</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/20/spring_authorization_server_1_1_1__1_0_3_and_0_4_3_available_now/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/20/spring_authorization_server_1_1_1__1_0_3_and_0_4_3_available_now/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring for GraphQL 1.1.5 and 1.2.1 released</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/20/spring_for_graphql_1_1_5_and_1_2_1_released/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/20/spring_for_graphql_1_1_5_and_1_2_1_released/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Security 6.1.1, 6.0.4, 5.8.4, 5.7.9, 5.6.11 Released</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/20/spring_security_6_1_1__6_0_4__5_8_4__5_7_9__5_6_11_released/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/20/spring_security_6_1_1__6_0_4__5_8_4__5_7_9__5_6_11_released/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Announcing jte 3 - The Java Template Engine</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/19/announcing_jte_3___the_java_template_engine/</link>
+      <pubDate>Mon, 19 Jun 2023 21:17:05 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/19/announcing_jte_3___the_java_template_engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maven plugin for sharing a native shared library across multiple executables</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/19/maven_plugin_for_sharing_a_native_shared_library_across_multiple_executables/</link>
+      <pubDate>Mon, 19 Jun 2023 15:38:22 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/19/maven_plugin_for_sharing_a_native_shared_library_across_multiple_executables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New GraalVM Release and New Free License!</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/19/a_new_graalvm_release_and_new_free_license_/</link>
+      <pubDate>Mon, 19 Jun 2023 15:17:12 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/19/a_new_graalvm_release_and_new_free_license_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ostara 0.10.0 released: Biggest release to date of the F/OSS admin app for Spring Boot</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/19/ostara_0_10_0_released__biggest_release_to_date_of_the_f_oss_admin_app_for_spring_boot/</link>
+      <pubDate>Mon, 19 Jun 2023 12:56:37 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/19/ostara_0_10_0_released__biggest_release_to_date_of_the_f_oss_admin_app_for_spring_boot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevent SQL Injections By Strengthen Your Web App Security</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/19/prevent_sql_injections_by_strengthen_your_web_app_security/</link>
+      <pubDate>Mon, 19 Jun 2023 08:08:04 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/19/prevent_sql_injections_by_strengthen_your_web_app_security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Office Pro Plus 2021 for Windows: Lifetime License &#43; A Free VLOOKUP &amp; XLOOKUP in Excel Course</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/19/microsoft_office_pro_plus_2021_for_windows__lifetime_license___a_free_vlookup___xlookup_in_excel_course/</link>
+      <pubDate>Mon, 19 Jun 2023 06:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/19/microsoft_office_pro_plus_2021_for_windows__lifetime_license___a_free_vlookup___xlookup_in_excel_course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We are open again!</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/19/we_are_open_again_/</link>
+      <pubDate>Mon, 19 Jun 2023 05:50:28 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/19/we_are_open_again_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IaC and Containers</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/16/iac_and_containers/</link>
+      <pubDate>Fri, 16 Jun 2023 16:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/16/iac_and_containers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The best way to use one-to-one table relationships</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/14/the_best_way_to_use_one_to_one_table_relationships/</link>
+      <pubDate>Wed, 14 Jun 2023 07:04:31 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/14/the_best_way_to_use_one_to_one_table_relationships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Native Java and reddit user feedback get perf through the roof</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/12/native_java_and_reddit_user_feedback_get_perf_through_the_roof/</link>
+      <pubDate>Sun, 11 Jun 2023 23:40:24 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/12/native_java_and_reddit_user_feedback_get_perf_through_the_roof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Blog) Benchmarking Virtual Threads</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/11/_blog__benchmarking_virtual_threads/</link>
+      <pubDate>Sun, 11 Jun 2023 19:14:26 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/11/_blog__benchmarking_virtual_threads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do you think about Graal CE performing worse than Graal EE?</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/11/what_do_you_think_about_graal_ce_performing_worse_than_graal_ee_/</link>
+      <pubDate>Sun, 11 Jun 2023 14:47:29 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/11/what_do_you_think_about_graal_ce_performing_worse_than_graal_ee_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The best way to validate the DDL schema with Spring and Hibernate</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/06/07/the_best_way_to_validate_the_ddl_schema_with_spring_and_hibernate/</link>
+      <pubDate>Wed, 07 Jun 2023 09:35:55 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/06/07/the_best_way_to_validate_the_ddl_schema_with_spring_and_hibernate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Performance Java Persistence Newsletter, Issue 51</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/05/31/high_performance_java_persistence_newsletter__issue_51/</link>
+      <pubDate>Wed, 31 May 2023 08:58:25 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/05/31/high_performance_java_persistence_newsletter__issue_51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to persist additional attributes for an association with JPA and Hibernate</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/05/29/how_to_persist_additional_attributes_for_an_association_with_jpa_and_hibernate/</link>
+      <pubDate>Mon, 29 May 2023 16:35:03 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/05/29/how_to_persist_additional_attributes_for_an_association_with_jpa_and_hibernate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache synchronization using jOOQ and PostgreSQL functions</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/05/25/cache_synchronization_using_jooq_and_postgresql_functions/</link>
+      <pubDate>Thu, 25 May 2023 10:31:56 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/05/25/cache_synchronization_using_jooq_and_postgresql_functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Operation Order</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/05/17/sql_operation_order/</link>
+      <pubDate>Wed, 17 May 2023 11:10:15 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/05/17/sql_operation_order/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hibernate default entity sequence</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/05/09/hibernate_default_entity_sequence/</link>
+      <pubDate>Tue, 09 May 2023 09:32:31 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/05/09/hibernate_default_entity_sequence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Performance Java Persistence Newsletter, Issue 50</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/05/03/high_performance_java_persistence_newsletter__issue_50/</link>
+      <pubDate>Wed, 03 May 2023 10:28:08 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/05/03/high_performance_java_persistence_newsletter__issue_50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Transaction and Connection Management</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/04/29/spring_transaction_and_connection_management/</link>
+      <pubDate>Sat, 29 Apr 2023 14:44:32 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/04/29/spring_transaction_and_connection_management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The best way to call SQL Server stored procedures with jOOQ</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/04/19/the_best_way_to_call_sql_server_stored_procedures_with_jooq/</link>
+      <pubDate>Wed, 19 Apr 2023 14:25:33 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/04/19/the_best_way_to_call_sql_server_stored_procedures_with_jooq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8 things you need to know when migrating to Hibernate 6.x</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/03/21/8_things_you_need_to_know_when_migrating_to_hibernate_6_x/</link>
+      <pubDate>Tue, 21 Mar 2023 13:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/03/21/8_things_you_need_to_know_when_migrating_to_hibernate_6_x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Think twice before using an object mapping library to get your DTOs</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/03/15/think_twice_before_using_an_object_mapping_library_to_get_your_dtos/</link>
+      <pubDate>Wed, 15 Mar 2023 13:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/03/15/think_twice_before_using_an_object_mapping_library_to_get_your_dtos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to map composite column types with Hibernate</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/03/09/how_to_map_composite_column_types_with_hibernate/</link>
+      <pubDate>Thu, 09 Mar 2023 16:42:53 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/03/09/how_to_map_composite_column_types_with_hibernate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to use PostgreSQL’s JSONB data type with Hibernate</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/03/01/how_to_use_postgresql_s_jsonb_data_type_with_hibernate/</link>
+      <pubDate>Wed, 01 Mar 2023 14:18:06 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/03/01/how_to_use_postgresql_s_jsonb_data_type_with_hibernate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Window Functions with Hibernate 5 &amp; 6</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/02/23/using_window_functions_with_hibernate_5___6/</link>
+      <pubDate>Thu, 23 Feb 2023 15:05:54 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/02/23/using_window_functions_with_hibernate_5___6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Data JPA – How to create a custom base repository</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/02/16/spring_data_jpa___how_to_create_a_custom_base_repository/</link>
+      <pubDate>Thu, 16 Feb 2023 17:01:26 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/02/16/spring_data_jpa___how_to_create_a_custom_base_repository/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java Records as Embeddables with Hibernate 6</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/02/07/java_records_as_embeddables_with_hibernate_6/</link>
+      <pubDate>Tue, 07 Feb 2023 13:00:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/02/07/java_records_as_embeddables_with_hibernate_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The difference between Spring Data JPA’s findById, getOne, getById, and findOne methods</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/02/02/the_difference_between_spring_data_jpa_s_findbyid__getone__getbyid__and_findone_methods/</link>
+      <pubDate>Thu, 02 Feb 2023 14:52:00 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/02/02/the_difference_between_spring_data_jpa_s_findbyid__getone__getbyid__and_findone_methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hibernate Performance Tuning – 2023 Edition</title>
+      <link>https://dailyjavablogs.github.io/posts/2023/01/19/hibernate_performance_tuning___2023_edition/</link>
+      <pubDate>Thu, 19 Jan 2023 13:35:58 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2023/01/19/hibernate_performance_tuning___2023_edition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[PSA]/r/java is not for programming help, learning questions, or installing Java questions</title>
+      <link>https://dailyjavablogs.github.io/posts/2020/10/08/_psa__r_java_is_not_for_programming_help__learning_questions__or_installing_java_questions/</link>
+      <pubDate>Thu, 08 Oct 2020 17:21:51 +0000</pubDate>
+      
+      <guid>https://dailyjavablogs.github.io/posts/2020/10/08/_psa__r_java_is_not_for_programming_help__learning_questions__or_installing_java_questions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

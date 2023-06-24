@@ -1,0 +1,47 @@
+spring:
+  data:
+    mongodb:
+      uuid-representation: standard
+
+logging:
+  level:
+    com:
+      github:
+        dailyjavablogs: DEBUG
+
+de:
+  flapdoodle:
+    mongodb:
+      embedded:
+        database-dir: ./data/mongo
+        version: 6.0.6
+
+
+djb:
+  front-matter:
+    root-dir: ./hugo/content/
+  sources:
+    - name: Spring
+      feed-url: https://spring.io/blog.atom
+      image: images/spring.png
+    - name: Reddit
+      feed-url: https://www.reddit.com/r/java.rss
+      image: images/reddit.png
+    - name: JavaCodeGeeks
+      feed-url: https://feeds.feedburner.com/JavaCodeGeeks
+      image: images/javacodegeeks.png
+    - name: VladMihalcea
+      feed-url: https://vladmihalcea.com/feed/
+      image: images/vladmihalcea.png
+    - name: ThorbenJanssen
+      feed-url: https://thorben-janssen.com/feed/
+      image: images/thorbenjanssen.png
+    - name: Bealdung
+      feed-url: https://feeds.feedblitz.com/baeldung
+      image: images/bealdung.png
+    - name: InfoWorld
+      feed-url: https://www.infoworld.com/category/application-development/index.rss
+      image: images/infoworld.png
+    - name: Java67
+      feed-url: http://feeds.feedburner.com/Java67
+      image: images/java.png
