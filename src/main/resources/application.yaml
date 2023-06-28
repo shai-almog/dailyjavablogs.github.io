@@ -45,3 +45,9 @@ djb:
     - name: Java67
       feed-url: http://feeds.feedburner.com/Java67
       image: images/java.png
+    - name: inside.java
+      feed-url: https://inside.java/feed.xml
+      image: images/java.png
+    - name: debugagent
+      feed-url: https://debugagent.com/rss.xml
+      image: images/debugagent.png
