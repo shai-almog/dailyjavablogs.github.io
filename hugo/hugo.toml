@@ -3,6 +3,7 @@ languageCode = 'en-us'
 paginate = 10
 title = 'Daily Java Blogs'
 theme = "PaperMod"
+googleAnalytics = 'G-EMVT5TFRDE'
 
 [params]
     environment = "production"
